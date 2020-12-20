@@ -1,4 +1,4 @@
-[[control]]
+[[Control]]
 
 Модуль управления проекта [[apollo-driving]]
 

@@ -1,10 +1,10 @@
 Общая задача восприятия - детектирования, распознавания, предсказания итп итд всякой дичи
 
 Типичные задачи:
-- [[object-detection]]
-- [[object-tracking]]
-- [[semantic-segmentation]]
-- [[prediction]]
+- [[Object detection]]
+- [[Object tracking]]
+- [[Semantic segmentation]]
+- [[Prediction]]
 
 Opens:
 - LiDAR vs Camers

@@ -1,3 +1,3 @@
-[[motion-planning]] проекта Apollo
+[[Motion planning]] проекта Apollo
 
 

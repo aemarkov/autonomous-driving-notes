@@ -2,4 +2,4 @@
 
 Некоторые методы управления:
 - [[Model Predictive Control]]
-- [[shit-circle-control]]
+- [[Shit control with circle]]

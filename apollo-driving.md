@@ -6,7 +6,7 @@ Autonomous driving platform
 ## Подсистемы:
 - [[apollo-control]]
 - [[apollo-localization]]
-- [[hd-map]]
+- [[HD maps]]
 - [[apollo-perception]]
 - [[apollo-planning]]
 

@@ -1,4 +1,4 @@
-[[localization]]
+[[Localization]]
 
 Модуль локализации проекта [[apollo-driving]]
 

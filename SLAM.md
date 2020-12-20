@@ -8,6 +8,7 @@
 - [[ORB-SLAM2]]
 - [[Open-VSLAM]]
 - [[LOAM]]
+- [[LeGO-LOAM]]
 
 Таблица со сравнением различных SLAM-алгоритмов: [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 

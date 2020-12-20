@@ -1,4 +1,4 @@
-Сетка для [[object-detection]] и немножко [[semantic-segmentation]]
+Сетка для [[Object detection]] и немножко [[Semantic segmentation]]
 
 ## References:
 - https://arxiv.org/abs/1703.06870
