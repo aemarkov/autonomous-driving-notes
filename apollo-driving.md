@@ -1,17 +1,3 @@
-[[Autonomous driving]]
-# Apollo
-Autonomous driving platform
-Какая-то крутая (?) китайская система для беспилотных машинок от Baidu (местный китайский гугл), опенсурс. Я как-то ее на джое описывал. Там есть разные подсистемы, местами ссылки. Пока самое цельное описание системы, что я видел
-
-## Подсистемы:
-- [[apollo-control]]
-- [[apollo-localization]]
-- [[HD maps]]
-- [[apollo-perception]]
-- [[apollo-planning]]
-
-
-## References
-- https://github.com/ApolloAuto/apollo
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:71d5285ba9ba3be9cfe1b883c934bc32aa0840a108526c0b91c704df5e9f036d
+size 658

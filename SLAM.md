@@ -1,14 +1,3 @@
-Одновременная навигация и картография
-
-Аппаратные/готовые/закрытые решения:
-- [[RealSense]]
-- [[ZED-camera]]
-
-Некоторые алгоритмы SLAM:
-- [[ORB-SLAM2]]
-- [[Open-VSLAM]]
-- [[LOAM]]
-- [[LeGO-LOAM]]
-
-Таблица со сравнением различных SLAM-алгоритмов: [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6e8ecaa9918c27770c1629c4b192e93a5ab50fd31598566cb50f333af6e9516
+size 1092
