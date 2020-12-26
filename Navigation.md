@@ -1,3 +1,5 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e819d4a54e0c5286775efe0b9991db98111ccb2f2556c8002110b1b655a5cc31
-size 318
+Общая задача навигации: определение положения ([[SLAM]]) и прокладка маршрута ([[Motion planning]]).
+
+## References
+- [[Deep Convolutional Neural Network-Based Autonomous Drone Navigation]]
+- [[Autonomous Navigation on Urban Sidewalks Under Winter Conditions]]

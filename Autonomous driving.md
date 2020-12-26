@@ -1,3 +1,18 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:0d41c5e8dac2ab8588109178414c022e9790fde716a05f682b05488923447a5c
-size 309
+# THIS IS ROOT
+
+Подсистемы:
+- [[Perception]]
+- [[Navigation]]
+- [[SLAM]] 
+- [[Mapping]]
+- [[Motion planning]]
+- [[Control]]
+
+Задачи:
+- [[Sidewalks robot]]
+
+Проекты:
+- [[apollo-driving]]
+- [[jetson_car]]
+
+Беспилотныер роботы для доставки: [[Sidewalks robot]]

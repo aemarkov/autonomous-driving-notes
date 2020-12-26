@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:124ccac59f8f1c5b41a8f75e60f989b13c758e8beb87ac6246f5e5adcdc92c33
-size 670
+[[Control]]
+
+Модуль управления проекта [[apollo-driving]]
+
+- Какая-то система управления, которая типо хорошо подходит для управления автомобилем и еще задержку учитывает в траекте управления
+- А статья почему-то про какой-то learning. Learning уже и до управления добрался?
+
+Ну я думаю, тут и обычный [[Model Predictive Control]] сгодится
+
+
+## References
+- [[A Learning-Based Tune-Free Control Framework for Large Scale Autonomous Driving System Deployment]]

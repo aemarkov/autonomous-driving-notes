@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d8c5aeeb1c2a2b68ff3c630cc56233cad0c8ae171a6fc8b185c54f4f409de5c
-size 623
+Планирование траектории: локальное и глобальное
+
+
+## Opens:
+- Classic vs NN? Всё, нейронки победили даже тут?
+
+## References:
+- [Алгоритмы построения пути для беспилотного автомобиля. Лекция Яндекса](https://habr.com/ru/post/483018/)
+- [[Intention-Net Integrating Planning and DeepLearning for Goal-Directed Autonomous Navigation.pdf]]
+- [[A 1.5μJ Task Path-Planning Processor for 2D 3D Autonomous Navigation of Micro Robots]]
+- [[Planning Beyond The Sensing Horizon Using a Learned Context]]

@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b3a53bebb80d2fc95749c0c278f4e8a256e4ce6fca087efee1b5c8f5f102095
-size 319
+# autonomous-driving-notes
+Graph-based notes (knowledge base) to learn autonomous driving
+
+## How to use
+I recommend to use [Obsidian](https://obsidian.md/) software to visualize the relation between notes in graph form.
+
+![Graph illustration](obsidian-graph.png)
+
+If you know a better software, please, let me know :)
