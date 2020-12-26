@@ -1,6 +1,5 @@
-[[Perception]]
-
-Модуль восприятия (т.е. детектирования всякого) проекта [[apollo-driving]]
+# Модуль восприятия  apollo
+Category: [[Perception]]
 
 Sensors:
 - [[camera]]

@@ -1,3 +1,6 @@
+# Prediction
+Category: [[Perception]]
+
 Предсказание движения объектов
 
 ## Refernces:

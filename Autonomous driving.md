@@ -2,17 +2,14 @@
 
 Подсистемы:
 - [[Perception]]
-- [[Navigation]]
-- [[SLAM]] 
-- [[Mapping]]
+- [[SLAM]]
 - [[Motion planning]]
 - [[Control]]
 
 Задачи:
 - [[Sidewalks robot]]
+- [[Autonomous delivery]]
 
 Проекты:
 - [[apollo-driving]]
 - [[jetson_car]]
-
-Беспилотныер роботы для доставки: [[Sidewalks robot]]

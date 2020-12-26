@@ -1,4 +1,5 @@
-Сетка для [[Object detection]] и немножко [[Semantic segmentation]]
+# Mask-RCNN
+Архитектура нейронной сети для [[Object detection]] и [[Instance Segmentation]]
 
 ## References:
 - https://arxiv.org/abs/1703.06870
