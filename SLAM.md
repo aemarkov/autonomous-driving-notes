@@ -5,11 +5,16 @@
 - [[ZED-camera]]
 
 Некоторые алгоритмы SLAM:
-- [[ORB-SLAM2]]
-- [[Open-VSLAM]]
-- [[LOAM]]
-- [[LeGO-LOAM]]
-- [[LIO-SAM]]
+- Visual SLAM
+	- [[ORB-SLAM2]]
+	- [[Open-VSLAM]]
+- LiDAR:
+	- [[LOAM]]
+	- [[LeGO-LOAM]]
+	- [[LIO-SAM]]
+	- [[Google Cartographer]] (2D/3D)
+- 2D:
+	- [[gmapping]]
 
 Таблица со сравнением различных SLAM-алгоритмов: [KITTI](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
 
